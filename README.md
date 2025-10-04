@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Soroush 👋
+PhD candidate in Operations Research @ Pitt. I build scalable algorithms for **inverse optimization**, **reinforcement learning**, and **clustering** with applications to VRP and production planning.
 
-<!--
-**soroush-akbarijokar/soroush-akbarijokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Highlights**
+- Optimality-based clustering (column generation)
+- Inverse MIP for VRP (convex approximation)
+- Adversarial robustness
+- Predictive maintenance
 
-Here are some ideas to get you started:
+**Tech:** Python · NumPy · Pandas · PyTorch · scikit-learn · TensorFlow · Gurobi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🔗 [LinkedIn](https://www.linkedin.com/in/soroushakbarijokar) · 📄 [Download Résumé (PDF)](https://raw.githubusercontent.com/soroush-akbarijokar/soroush-akbarijokar/main/resume.pdf)· ✉️ soroush.akbarijokar@gmail.com
