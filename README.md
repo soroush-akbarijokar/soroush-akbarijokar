@@ -1,11 +1,21 @@
 # Hi, I'm Soroush 👋
 PhD candidate in Operations Research @ Pitt. I build scalable algorithms for **inverse optimization**, **reinforcement learning**, and **clustering** with applications to VRP and production planning.
 
-**Highlights**
-- Optimality-based clustering (column generation)
-- Inverse MIP for VRP (convex approximation)
-- Adversarial robustness
-- Predictive maintenance
+## Featured Repositories
+
+
+- 🧩 **Optimality-Based Clustering** — stability + column-generation *(manuscript in prep)*  
+  ➜ https://github.com/soroush-akbarijokar/optimality-based-clustering
+
+- 🚚 **Inverse MIP for VRP** — convex inverse approx *(manuscript in prep)*  
+  ➜ https://github.com/soroush-akbarijokar/inverse-mip-vrp
+  
+- 🔷 **Predictive Maintenance Planning** — tiny end-to-end demo (baseline, ROC-AUC, threshold policy)  
+  ➜ https://github.com/soroush-akbarijokar/predictive-maintenance-planning
+
+- 🛡️ **Adversarial Robustness in DL** — synthetic FGSM demo with clean/adv accuracy  
+  ➜ https://github.com/soroush-akbarijokar/adversarial-robustness-dl
+
 
 **Tech:** Python · NumPy · Pandas · PyTorch · scikit-learn · TensorFlow · Gurobi
 
