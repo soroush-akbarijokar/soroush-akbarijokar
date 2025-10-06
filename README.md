@@ -3,7 +3,6 @@ PhD candidate in Operations Research @ Pitt. I build scalable algorithms for **i
 
 ## Featured Repositories
 
-
 - 🧩 **Optimality-Based Clustering** — stability + column-generation *(manuscript in prep)*  
   ➜ https://github.com/soroush-akbarijokar/optimality-based-clustering
 
@@ -16,8 +15,9 @@ PhD candidate in Operations Research @ Pitt. I build scalable algorithms for **i
 - 🛡️ **Adversarial Robustness in DL** — synthetic FGSM demo with clean/adv accuracy  
   ➜ https://github.com/soroush-akbarijokar/adversarial-robustness-dl
 
+- 🌡️ **Ridge Regression for Time-Series** — NumPy-only closed-form, Cholesky, and CG solvers; reproducible plots & metrics (coursework repo)  
+  ➜ https://github.com/soroush-akbarijokar/ridge-timeseries
 
 **Tech:** Python · NumPy · Pandas · PyTorch · scikit-learn · TensorFlow · Gurobi
 
-
-🔗 [LinkedIn](https://www.linkedin.com/in/soroushakbarijokar) · 📄 [Download Résumé (PDF)](https://raw.githubusercontent.com/soroush-akbarijokar/soroush-akbarijokar/main/resume.pdf)· ✉️ soroush.akbarijokar@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/soroushakbarijokar) · 📄 [Download Résumé (PDF)](https://raw.githubusercontent.com/soroush-akbarijokar/soroush-akbarijokar/main/resume.pdf) · ✉️ soroush.akbarijokar@gmail.com
