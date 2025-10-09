@@ -4,12 +4,6 @@ PhD candidate in Operations Research @ Pitt. I build scalable algorithms for inv
 
 ## Featured Repositories
 
-- **Optimality-Based Clustering** — stability + column-generation (manuscript in prep)  
-  ➜ https://github.com/soroush-akbarijokar/optimality-based-clustering
-
-- **Inverse MIP for VRP** — convex inverse approx (manuscript in prep)  
-  ➜ https://github.com/soroush-akbarijokar/inverse-mip-vrp
-
 - **Causal & Graphical Models (CMU 10-701)** — small, didactic project connecting Bayesian networks to causal estimands (ATE); includes back-door & front-door identification, IPW/AIPW, EM for missing mediator, sweeps, tests, and CI  
   ➜ https://github.com/soroush-akbarijokar/causal-graphical
 
